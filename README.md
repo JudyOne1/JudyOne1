@@ -17,5 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Judy</h1>
 <h3 align="center">I am a junior from China, a java developer and learner</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudyOne1&theme=ambient_gradient&show_icons=true)
+[![JudyOne1's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudyOne1&theme=ambient_gradient&show_icons=true&count_private=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Augenstern-creator&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![JudyOne1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JudyOne1&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
