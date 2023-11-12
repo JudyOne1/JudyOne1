@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Judy</h1>
 <h3 align="center">I am a junior from China, a java developer and learner</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ambient_gradient&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudyOne1&theme=ambient_gradient&show_icons=true)
 
