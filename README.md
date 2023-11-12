@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudyOne1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&random=false&width=435&lines=Hello+%2C+I'm+Judy%F0%9F%91%8B;a+java+developer+and+learner" >
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&random=false&width=435&lines=Hello+%2C+I'm+Judy%F0%9F%91%8B;a+java+developer+and+learner)](https://git.io/typing-svg)
-
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JudyOne1&show_icons=true&count_private=true&theme=ambient_gradient&hide=issues,contribs" style="flex: 1;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudyOne1&layout=compact" style="flex: 1;">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JudyOne1&show_icons=true&count_private=true&theme=ambient_gradient&hide=issues,contribs">
 </div>
 
 
