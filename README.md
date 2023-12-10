@@ -37,9 +37,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=judyone1&" alt="judyone1" />
-</div>
 <div align="center"><img src="https://stats.justsong.cn/api/csdn?id=DongShanAAA"> </div>
 
 <div align="center"> You are my <img src="https://profile-counter.glitch.me/JudyOne1/count.svg" /> visitor. Thank you. 😘 </div>
